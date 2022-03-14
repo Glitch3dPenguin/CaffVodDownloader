@@ -39,4 +39,4 @@ Pase the Request URL into the script once you run it and press `ENTER`.
 Now choose a name for your VOD to be saved as and press `ENTER`.
 ![](https://i.imgur.com/AoxBSxu.png)
 
-**DONE!** You VOD will now be downloaded and saved to the same location as the place you saved the script. 
+**DONE!** Your VOD will now be downloaded and saved to the same location as the place you saved the script. 
