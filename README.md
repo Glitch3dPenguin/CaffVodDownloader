@@ -17,7 +17,7 @@ Open the "Videos" tab to show all your VODs.
 Press `F12` to open the browser console. 
 
 - Step 4: 
-Open the netowrk tab
+Open the network tab
 ![](https://i.imgur.com/l3vIivt.gif)
 
 - Step 5: 
