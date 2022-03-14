@@ -24,7 +24,7 @@ Open the netowrk tab
 Now it's time to pick the VOD that you want to download. **With the Network tab still open**, scroll through your vods list and click on the video you want to download. 
 Then look on the network tab and find the new row that appeared called `main.m3u8`. 
 Then click on it!
-![](https://i.imgur.com/BdxZEvj.gif)
+![](https://klabsdev.com/Downloads/step5.gif)
 
 - Step 6:
 Once you have clicked on `main.m3u8` there will be a section that apperared called `Request URL:`. 
