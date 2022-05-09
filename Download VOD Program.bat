@@ -20,7 +20,7 @@ IF %ERRORLEVEL% EQU 0 (
         ) else (
             rem File doesn't exist
             echo.
-            echo [31mFFMPEG NOT INSTALLED![0m
+            echo FFMPEG NOT INSTALLED!
             echo.
             echo STARTING DOWNLOAD...
             echo.

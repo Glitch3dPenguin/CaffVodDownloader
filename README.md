@@ -7,36 +7,37 @@
 ### How to Use:
 
 - Step 1:
-Go to your Caffeine.tv settings on desktop. 
+On desktop, open your Caffeine profile. You want to be able to see all your vods. The page should look like this:
+![](https://share.klabsdev.com/files//QdWEQNta.png)
 
-- Step 2:
-Open the "Videos" tab to show all your VODs.
-![](https://i.imgur.com/37LZKf4.gif)
+- Step 2: 
+Press `F12` to open the browser console.
+![](https://share.klabsdev.com/files//hWXpsXdu.gif)
 
 - Step 3: 
-Press `F12` to open the browser console. 
+Open the network tab
+![](https://share.klabsdev.com/files//XOZcLHAq.gif)
 
 - Step 4: 
-Open the network tab
-![](https://i.imgur.com/l3vIivt.gif)
-
-- Step 5: 
-Now it's time to pick the VOD that you want to download. **With the Network tab still open**, scroll through your vods list and click on the video you want to download. 
+Now it's time to pick the VOD that you want to download. **With the Network tab still open**, scroll through your VODs and click on the video you want to download. 
 Then look on the network tab and find the new row that appeared called `main.m3u8`. 
-Then click on it!
-![](https://klabsdev.com/Downloads/step5.gif)
+![](https://share.klabsdev.com/files//wBnysuZJ.gif)
 
-- Step 6:
-Once you have clicked on `main.m3u8` there will be a section that apperared called `Request URL:`. 
-![](https://i.imgur.com/lN5h6Yd.png)
-The link you will see is the HLS link to your Caffeine VOD. Because this is streamed to you in HLS chunks, you cannot save the video from here. This is the link that you will paste into the program. 
+- Step 5:
+Right click on `main.m3u8`. Then hover over `Copy`. 
+You will want to choose `Copy link address`.
+![](https://share.klabsdev.com/files//JxSwjml.gif)
+
+- Step 6: 
+Paste the URL into the script once you run it and press `ENTER`.
+![](https://share.klabsdev.com/files//LWujbmnf.png)
 
 - Step 7: 
-Pase the Request URL into the script once you run it and press `ENTER`.
-![](https://i.imgur.com/B4qibSV.png)
+Now choose a name for your VOD to be saved as and press `ENTER`.
+![](https://share.klabsdev.com/files//PZUMgfHj.png)
 
 - Step 8: 
-Now choose a name for your VOD to be saved as and press `ENTER`.
-![](https://i.imgur.com/AoxBSxu.png)
+Now choose what format to save the VOD as and press `ENTER`.
+![](https://share.klabsdev.com/files//lkZCnOki.png)
 
-**DONE!** Your VOD will now be downloaded and saved to the same location as the place you saved the script. 
+**DONE!** Your VOD will now be downloaded and saved the new "CaffeineVODs" folder located in Downloads.
