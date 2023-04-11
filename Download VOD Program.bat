@@ -60,7 +60,7 @@ IF %ERRORLEVEL% EQU 0 (
 )
 set /p VODLINK="Paste VOD Link: "
 echo.
-set /p VODNAME="Name of VOD: "
+set /p VODNAME="Name of VOD (DO NOT USE SPACES IN NAME): "
 echo.
 echo File format examples (mp4, mkv, flv, avi, gif, mp3, ogg)
 set /p VODTYPE="Choose File Type: "
